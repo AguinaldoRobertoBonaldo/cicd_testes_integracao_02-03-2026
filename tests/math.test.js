@@ -1,5 +1,5 @@
 const math=require('../math');
 
-test('divide 12 / 3 igual a 4',() => {
-    expect(math.divide(12, 3)).toBe(4);
+test('subtract 100 - 50 igual a 50',() => {
+    expect(math.subtract(100, 50)).toBe(50);
 });
